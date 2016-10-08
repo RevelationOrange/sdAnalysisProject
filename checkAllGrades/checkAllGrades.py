@@ -5,6 +5,7 @@ import json
 get an end of day packet from the game by having your network monitor open (f12 in firefox and I think chrome too) while
 you finish a day and save it in a file names EOD.txt in the same folder as this program
 the end of day packet is a client_action that's about 240 kb
+also, it's probly best to put this stuff in its own folder, just for organization
 '''
 
 def main():
